@@ -9,6 +9,9 @@
         background-color: green;
 
     }
+    & a {
+        background-color: greenyellow;
+    }
 
     @media (max-width: 500px) {
         background-color: red;
